@@ -1,0 +1,63 @@
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///C:/Users/USER/Desktop/20250725%E7%B7%B4%E7%BF%92-20250729T013358Z-1-001/20250725%E7%B7%B4%E7%BF%92/M20250725/fonts/Noto Sans TC/100.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///C:/Users/USER/Desktop/20250725%E7%B7%B4%E7%BF%92-20250729T013358Z-1-001/20250725%E7%B7%B4%E7%BF%92/M20250725/fonts/Noto Sans TC/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///C:/Users/USER/Desktop/20250725%E7%B7%B4%E7%BF%92-20250729T013358Z-1-001/20250725%E7%B7%B4%E7%BF%92/M20250725/fonts/Noto Sans TC/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/USER/Desktop/20250725%E7%B7%B4%E7%BF%92-20250729T013358Z-1-001/20250725%E7%B7%B4%E7%BF%92/M20250725/fonts/Noto Sans TC/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///C:/Users/USER/Desktop/20250725%E7%B7%B4%E7%BF%92-20250729T013358Z-1-001/20250725%E7%B7%B4%E7%BF%92/M20250725/fonts/Noto Sans TC/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/USER/Desktop/20250725%E7%B7%B4%E7%BF%92-20250729T013358Z-1-001/20250725%E7%B7%B4%E7%BF%92/M20250725/fonts/Noto Sans TC/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///C:/Users/USER/Desktop/20250725%E7%B7%B4%E7%BF%92-20250729T013358Z-1-001/20250725%E7%B7%B4%E7%BF%92/M20250725/fonts/Noto Sans TC/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///C:/Users/USER/Desktop/20250725%E7%B7%B4%E7%BF%92-20250729T013358Z-1-001/20250725%E7%B7%B4%E7%BF%92/M20250725/fonts/Noto Sans TC/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/USER/Desktop/20250725%E7%B7%B4%E7%BF%92-20250729T013358Z-1-001/20250725%E7%B7%B4%E7%BF%92/M20250725/fonts/Noto Sans TC/regular.ttf') format('truetype');
+}
